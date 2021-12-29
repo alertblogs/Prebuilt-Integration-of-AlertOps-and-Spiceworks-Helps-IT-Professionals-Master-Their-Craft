@@ -1,40 +1,32 @@
-AlertOps Expert Guidance
+Prebuilt Integration of AlertOps and Spiceworks Helps IT Professionals Master Their Craft
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Spiceworks is a comprehensive suite of IT management tools that gives IT professionals a fully loaded helpdesk to manage user requests.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+On the backend, Spiceworks delivers complete device inventory and tracking, configurable reporting, and software tracking.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Then, to keep tabs on your networks, Spiceworks is a complete network monitor that tracks the status of servers, switches, SNMP devices, and more.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+That’s a lot of functionality in a single IT management pack!
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+But even with all these features, Spiceworks isn’t a complete incident management system. AlertOps extends the IT management capabilities of Spiceworks into incident management, so that you never miss a critical alert or SLA deadline.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+Here are a few ways that an AlertOps and Spiceworks integration spices up your incident management:
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+    Send alerts to incident response teams via text, voice, email, or mobile push notifications, so critical alerts never go unseen.
+    AlertOps will automatically open and close incidents based on the status received from Spiceworks. This relieves your teams of administrative tasks and eliminates redundant work.
+    Assign an incident owner automatically in AlertOps based on the ticket owner in Spiceworks. Always be sure that there’s someone on the job.
+    Include links to Spiceworks tickets in alerts sent by AlertOps, so your teams can get right to work when an alert comes in.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+You can get all this functionality with a quick, simple integration using our Generic Email API. And all this is in addition to the incident management tools AlertOps delivers—customizable message routing rules, configurable workflows, standardized escalation, and much more.
 
-1 Red Canary 2021 Threat Detection Report
+Head over to our help center to learn how to configure your AlertOps and Spiceworks configuration and make your incident management life easier.
+
+Or check out over 40 other third-party integrations that AlertOps offers for the tools you use every day!
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/spiceworks-our-spiciest-integration/
 
 Read more:
 ====
